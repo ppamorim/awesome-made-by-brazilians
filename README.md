@@ -14,6 +14,7 @@
 - [Go](#go)
 - [JavaScript](#js)
 - [PHP](#php)
+- [Swift](#swift)
 - [vim](#vim)
 
 <a name="apps"></a>
@@ -96,6 +97,13 @@
 | Project | Description | Author | |
 |--|--|--|--|
 | [Validation](https://github.com/Respect/Validation) | The most awesome validation engine ever created for PHP | [henriquemoody](https://github.com/henriquemoody) | ![Stars](https://img.shields.io/github/stars/Respect/Validation?style=flat-square) |
+
+<a name="swift"></a>
+### Swift
+
+| Project | Description | Author | |
+|--|--|--|--|
+| [meilisearch-swift](https://github.com/meilisearch/meilisearch-swift) | Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine MeiliSearch client written in Swift | [ppamorim](https://github.com/ppamorim) | ![Stars](https://img.shields.io/github/stars/meilisearch/meilisearch-swift?style=flat-square) |
 
 <a name="vim"></a>
 ### vim
